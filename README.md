@@ -18,7 +18,7 @@ How to use
     
 Example Output
 
-![image](https://user-images.githubusercontent.com/122945132/234940398-aec53051-55b3-4c57-af2c-7235aa8fcf0c.png)
+![image](https://user-images.githubusercontent.com/122945132/234940809-e0d19de8-a8f2-4afd-9768-0574db240368.png)
  
 Dependencies
 
