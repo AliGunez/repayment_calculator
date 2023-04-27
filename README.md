@@ -18,16 +18,7 @@ How to use
     
 Example Output
 
-----------------------------------------
-['alice', 'bob', 'charlie']
-[100, 50, 20]
-----------------------------------------
-Total spent = £170
-170 divided by 3 people = £56.67
-________________________________________
-charlie needs to pay alice £36.67
-bob needs to pay alice £13.33
-________________________________________
+![image](https://user-images.githubusercontent.com/122945132/234940398-aec53051-55b3-4c57-af2c-7235aa8fcf0c.png)
  
 Dependencies
 
