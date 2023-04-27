@@ -28,7 +28,7 @@ ________________________________________
 charlie needs to pay alice £36.67
 bob needs to pay alice £13.33
 ________________________________________
-
+ 
 Dependencies
 
 This script does not have any external dependencies. It uses only built-in Python libraries.
